@@ -4,7 +4,7 @@
 
 This project was completed during a Data Technician Bootcamp and demonstrates the use of SQL to analyse, retrieve, and manipulate data from retail, sales, and business databases.
 
-Working with datasets such as the Northwind database, I developed SQL queries to extract valuable insights, explore customer and product information, analyse sales performance, and combine data across multiple related tables. The project focused on applying SQL to solve real-world business problems and support data-driven decision-making. 【1-411e36】
+Working with datasets such as the Northwind database, I developed SQL queries to extract valuable insights, explore customer and product information, analyse sales performance, and combine data across multiple related tables. The project focused on applying SQL to solve real-world business problems and support data-driven decision-making. 
 
 ---
 
