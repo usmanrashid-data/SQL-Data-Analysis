@@ -57,23 +57,23 @@ Working with datasets such as the Northwind database, I developed SQL queries to
 
 ### 👥 Customer Data Analysis
 
-Queried customer datasets to retrieve customer information, identify unique locations, and support targeted marketing activities through data filtering and segmentation. 【1-411e36】
+Queried customer datasets to retrieve customer information, identify unique locations, and support targeted marketing activities through data filtering and segmentation. 
 
 ### 🛒 Product & Inventory Analysis
 
-Used SQL queries to analyse products, categories, and suppliers, helping to understand product classifications and inventory relationships. 【1-411e36】
+Used SQL queries to analyse products, categories, and suppliers, helping to understand product classifications and inventory relationships. 
 
 ### 📦 Sales & Order Reporting
 
-Extracted and analysed sales and order information using filtering, sorting, and aggregation techniques to support business reporting and performance monitoring. 【1-411e36】
+Extracted and analysed sales and order information using filtering, sorting, and aggregation techniques to support business reporting and performance monitoring. 
 
 ### 🔗 Relational Database Analysis
 
-Applied JOIN operations to combine data from multiple tables, enabling the creation of detailed reports that linked customers, orders, products, categories, suppliers, and employees. 【1-411e36】
+Applied JOIN operations to combine data from multiple tables, enabling the creation of detailed reports that linked customers, orders, products, categories, suppliers, and employees. 
 
 ### 📊 Business Insights & Reporting
 
-Used aggregate functions such as COUNT, SUM, and AVG alongside GROUP BY to produce meaningful reports and identify trends within retail and sales datasets. 【1-411e36】
+Used aggregate functions such as COUNT, SUM, and AVG alongside GROUP BY to produce meaningful reports and identify trends within retail and sales datasets. 
 
 ---
 
